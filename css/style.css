@@ -19,6 +19,14 @@
     display: none;
 }
 
+.fa-edit {
+    color: gray;
+}
+
+.fa-search {
+    color: gray;
+}
+
 .carousel-item {
     height: 80vh;
 }
@@ -40,4 +48,13 @@
 
 .carousel-button {
     font-size: 1.5rem;
+}
+
+.footer-social-media-icon-div {
+    width: 30px;
+    height: 30px;
+}
+
+.footer-social-media-icon-div img {
+    max-width: 100%;
 }
